@@ -1,6 +1,8 @@
 # Z Model framework
 zModel framework is a predictive model framework built on top of ServiceNow platform. It defines a runtime environment where predictive models can be deployed and used.
 
+Website: https://z-model.com
+
 You build a model outside of ServiceNow using your own machine learning tools and algorithms. Then you use zModel framework to deploy the model into ServiceNow and can use it for any business or IT application and processes.
 
 ![img](/assets/img1.png)
